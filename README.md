@@ -5,6 +5,6 @@ Thhis is a project implemented for the Udacity-Bertelsmann Data Foundations Nano
 
 
 -> The links from the Tableau visualizations;
-   -I nsight 1-Flight cancellations per state and month ( https://public.tableau.com/profile/tableauuser5008#!/vizhome/Book0_43/Sheet2?publish=yes )
-   - 
+   - Insight 1-Flight cancellations per state and month ( https://public.tableau.com/profile/tableauuser5008#!/vizhome/Book0_43/Sheet2?publish=yes )
+   - Insight 2-Most frequent reasons of delay over months ( https://public.tableau.com/profile/tableauuser5008#!/vizhome/Book0_43/Dashboard1?publish=yes )
 
